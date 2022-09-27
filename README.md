@@ -2,4 +2,4 @@
 
 ## practice useState
 
-### Ideas come from KevinQiu802
+### Learn by KevinQiu802
